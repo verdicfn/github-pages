@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crispy Fried Chicken Recipe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #d35400;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        ul, ol {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Crispy Fried Chicken Recipe</h1>
+        <img src="https://www.allrecipes.com/thmb/q-IfK20zxeyp1DgKWhrVp6CQ43w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-89268-triple-dipped-fried-chicken-beauty-4x3-3961ac838ddd41958e7cb9f49376cd68.jpg" alt="Crispy Fried Chicken">
+        
+        <div class="section">
+            <h2>Ingredients</h2>
+            <ul>
+                <li>4 chicken drumsticks and 4 thighs (bone-in, skin-on)</li>
+                <li>2 cups buttermilk</li>
+                <li>2 cups all-purpose flour</li>
+                <li>1 tbsp paprika</li>
+                <li>1 tsp garlic powder</li>
+                <li>1 tsp onion powder</li>
+                <li>1 tsp salt</li>
+                <li>1/2 tsp black pepper</li>
+                <li>Vegetable oil (for frying)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Instructions</h2>
+            <ol>
+                <li>Marinate the chicken in buttermilk for at least 2 hours (or overnight) in the fridge.</li>
+                <li>In a bowl, mix flour, paprika, garlic powder, onion powder, salt, and pepper.</li>
+                <li>Remove chicken from buttermilk, letting excess drip off, then coat each piece in the flour mixture.</li>
+                <li>Heat 2 inches of vegetable oil in a deep skillet or Dutch oven to 350°F (175°C).</li>
+                <li>Fry the chicken in batches, 10-12 minutes per side, until golden brown and internal temp reaches 165°F (74°C).</li>
+                <li>Drain on paper towels and serve hot!</li>
+            </ol>
+        </div>
+
+        <div class="section">
+            <h2>Tips</h2>
+            <p>For extra crunch, double-dip the chicken: buttermilk, flour, buttermilk, flour again.</p>
+            <p>Serve with mashed potatoes, coleslaw, or your favorite hot sauce.</p>
+        </div>
+    </div>
+</body>
+</html>
